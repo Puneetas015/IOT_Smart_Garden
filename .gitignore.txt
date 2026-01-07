@@ -1,0 +1,4 @@
+# Ignore Arduino build folders
+build/
+bin/
+*.exe
